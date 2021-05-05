@@ -1,2 +1,2 @@
 # KleineUebungen
-Üben von Git, Github, TDD und CleanCode
+Kleine Übungen zum Üben von Git, Github, TDD und CleanCode
