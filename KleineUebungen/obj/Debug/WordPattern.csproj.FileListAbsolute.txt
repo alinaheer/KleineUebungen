@@ -1,0 +1,6 @@
+D:\Alina\OneDrive\Weiterbildung\Programmierübungen\KleineUebungen\KleineUebungen\bin\Debug\KleineUebungen.dll
+D:\Alina\OneDrive\Weiterbildung\Programmierübungen\KleineUebungen\KleineUebungen\bin\Debug\KleineUebungen.pdb
+D:\Alina\OneDrive\Weiterbildung\Programmierübungen\KleineUebungen\KleineUebungen\obj\Debug\WordPattern.csprojAssemblyReference.cache
+D:\Alina\OneDrive\Weiterbildung\Programmierübungen\KleineUebungen\KleineUebungen\obj\Debug\WordPattern.csproj.CoreCompileInputs.cache
+D:\Alina\OneDrive\Weiterbildung\Programmierübungen\KleineUebungen\KleineUebungen\obj\Debug\KleineUebungen.dll
+D:\Alina\OneDrive\Weiterbildung\Programmierübungen\KleineUebungen\KleineUebungen\obj\Debug\KleineUebungen.pdb
